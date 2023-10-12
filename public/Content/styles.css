@@ -1,0 +1,137 @@
+/* styles.css
+Student Name: Sagar Parmar
+Student ID: 301271932
+Date: 11th Oct 2023 */
+
+
+.navbar {
+    font-family: 'VT323';
+    font-size: 20px;
+	margin-bottom:0px !important;
+	padding: 0px !important;
+    background-color: black;
+}
+
+.navbar-brand > img{
+    width: 90px;
+    height: 100px;
+}
+
+#navbarNav{
+    justify-content: center;
+    background-color: black;
+    height: 80px;
+}
+
+a.nav-link{
+    color: greenyellow
+}
+
+html,body{
+    padding:0;
+    margin:0;
+    color: greenyellow;
+    background-color: black;
+}
+
+.title > h1{
+    font-family: 'VT323';
+    text-align: center;
+    padding:0;
+    margin:0;
+    color: greenyellow;
+    background-color: black;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+.project-row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 2px solid greenyellow ;
+}
+
+.project > .project-title{
+    background-color: black;
+    color: greenyellow;
+}
+
+.main-wrapper{
+    background-color: black;
+    color: greenyellow;
+    max-width: 100%;
+}
+
+.project-link{
+    text-decoration: none;
+    color: greenyellow;
+}
+
+.content-wrap{
+    font-family: 'VT323';
+    padding: 100px 0 ;
+}
+
+
+.project-wrap > img{
+    width: 400px;
+    height: 300px;
+    margin-top: 50px;
+
+}
+
+.aboutme-wrap > img {
+    width: 400px;
+    height: 500px;
+    margin-top: 85px;
+}
+
+.form-wrap{
+    background-color: black;
+    color: greenyellow;
+    max-width: 100%;
+}
+
+.form-row{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.footer{
+    position: relative;
+    background-color: black;
+    color: greenyellow;
+    font-family: 'VT323';
+
+}
+
+.footer-wrap{
+    padding-bottom:2.5rem;
+    text-align: center;
+}
+
+.footer-img > a > img{
+    width: 300px;
+    height: 300px;
+}
+
+.footer-socials > ul > li > a > img{
+    width: 30px;
+    height: 30px;
+}
+
+.footer-socials > ul {
+    list-style-type: none;
+    margin: 50px 220px;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+.footer-socials > ul >  li {
+    float: left;
+    margin: 70px 10px;
+  }
+
